@@ -67,7 +67,7 @@ module.exports={
     mostrarUsuarios,
     buscarPorId,
     eliminarUsuario,
-    newUser
+    newUser,validarDatos
 }
 
 //Revisar cuando si existe el usuario, pero el usuario es incorrecto
